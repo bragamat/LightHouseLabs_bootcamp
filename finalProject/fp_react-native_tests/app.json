@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "name": "I'm Rich",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug":"imrich",
+    "android":{
+      "package":"com.bragamat.imrich"
+    }
+  }
+}
